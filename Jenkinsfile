@@ -10,7 +10,7 @@ pipeline {
   stages {
     stage('checkout') {
         steps {
-            git 'https://github.com/vanisai143/EKS_TF.git'
+            git 'https://github.com/sairaghavadev/eks_test.git'
         }
     }
  
